@@ -1,0 +1,16 @@
+C:\Users\Punto Digital\Desktop\C#\C-\Figura\Figura\Figura\obj\Debug\net5.0\Figura.csproj.AssemblyReference.cache
+C:\Users\Punto Digital\Desktop\C#\C-\Figura\Figura\Figura\obj\Debug\net5.0\Figura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Punto Digital\Desktop\C#\C-\Figura\Figura\Figura\obj\Debug\net5.0\Figura.AssemblyInfoInputs.cache
+C:\Users\Punto Digital\Desktop\C#\C-\Figura\Figura\Figura\obj\Debug\net5.0\Figura.AssemblyInfo.cs
+C:\Users\Punto Digital\Desktop\C#\C-\Figura\Figura\Figura\obj\Debug\net5.0\Figura.csproj.CoreCompileInputs.cache
+C:\Users\Punto Digital\Desktop\C#\C-\Figura\Figura\Figura\bin\Debug\net5.0\Figura.exe
+C:\Users\Punto Digital\Desktop\C#\C-\Figura\Figura\Figura\bin\Debug\net5.0\Figura.deps.json
+C:\Users\Punto Digital\Desktop\C#\C-\Figura\Figura\Figura\bin\Debug\net5.0\Figura.runtimeconfig.json
+C:\Users\Punto Digital\Desktop\C#\C-\Figura\Figura\Figura\bin\Debug\net5.0\Figura.runtimeconfig.dev.json
+C:\Users\Punto Digital\Desktop\C#\C-\Figura\Figura\Figura\bin\Debug\net5.0\Figura.dll
+C:\Users\Punto Digital\Desktop\C#\C-\Figura\Figura\Figura\bin\Debug\net5.0\ref\Figura.dll
+C:\Users\Punto Digital\Desktop\C#\C-\Figura\Figura\Figura\bin\Debug\net5.0\Figura.pdb
+C:\Users\Punto Digital\Desktop\C#\C-\Figura\Figura\Figura\obj\Debug\net5.0\Figura.dll
+C:\Users\Punto Digital\Desktop\C#\C-\Figura\Figura\Figura\obj\Debug\net5.0\ref\Figura.dll
+C:\Users\Punto Digital\Desktop\C#\C-\Figura\Figura\Figura\obj\Debug\net5.0\Figura.pdb
+C:\Users\Punto Digital\Desktop\C#\C-\Figura\Figura\Figura\obj\Debug\net5.0\Figura.genruntimeconfig.cache
